@@ -1,0 +1,9 @@
+********************************************Instructions***************************************************
+Before playing the main game, you are tasked to place 20 spaceships in the board. Strategize where you will
+put it, as it will help make your spaceship less likely to be bomped by the enemy.
+***********************************************************************************************************
+The player will take turns with the CPU. The player is tasked to guess and use visual clues to target the
+Zomocronians spaceships in the board. Each spaceship destroyed will be added on the score, on the other
+hand, for every time the enemy hits your spaceships will result on a subtracted points. The first one to
+destroy all ships win.
+***********************************************************************************************************
